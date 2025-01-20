@@ -6,4 +6,4 @@ Pablo Calvo-Barlés, $^{1,2}$ Sergio G. Rodrigo, $^{1, 3}$ and Luis Martín-More
 + $^{3}$ Departamento de Física Aplicada, Universidad de Zaragoza, Zaragoza 50009, Spain
 
 # Abstract
-This Jupyter notebook provides an implementation of the Equivariance Seeker Model (ESM) based on Tensorflow-Keras (version 2.17 or higher). The ESM is designed to find the entire finite symmetry group of a given dynamical system given a dataset of trajectories. We illustrate its functionality with the application to a simple one-dimensional system.
+This Jupyter notebook provides an implementation of the Equivariance Seeker Model (ESM) based on Tensorflow-Keras (it requires Tensorflow version 2.17 or higher). The ESM is designed to find the entire finite symmetry group of a given dynamical system given a dataset of trajectories. We illustrate its functionality with the application to a simple one-dimensional system.
