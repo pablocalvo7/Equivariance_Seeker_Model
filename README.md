@@ -1,4 +1,4 @@
-# Learning finite symmetry groups of dynamical systems via equivariance detection
+# Machine learning for detection of equivariant finite symmetry groups in dynamical systems
 Pablo Calvo-Barlés, $^{1,2}$ Sergio G. Rodrigo, $^{1, 3}$ and Luis Martín-Moreno $^{1,2}$
 
 + $^{1}$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza 50009, Spain
